@@ -8,11 +8,11 @@
 
 <div align="center">
   <h3>
-    <a href="https://rodoct.github.io/Homepage/">
+    <a href="https://rodoct.github.io/Porfolio/">
       Demo
     </a>
     <span> | </span>
-    <a href="https://legacy.devchallenges.io/solutions/R0A9F2zDcPYHGo2c6naN">
+    <a href="https://legacy.devchallenges.io/solutions/Ed8Mfr8DTKuA8bP9NmuX">
       Solution
     </a>
     <span> | </span>
@@ -48,6 +48,6 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 ## Contact
 
-- Website [your-website.com](https://{your-web-site-link})
+- Website [Rodolfo Cante](https://rodoct.github.io/Porfolio/})
 - GitHub [RodoCT](https://github.com/RodoCT)
 - Twitter [@your-twitter](https://{twitter.com/your-username})
